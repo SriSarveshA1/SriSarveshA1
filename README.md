@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SriSarvesh R</h1>
-<h3 align="center">A passionate Full stack Developer Using Javascript tech Stack.</h3>
+<h3 align="center">A passionate Backend Developer Using Javascript tech Stack.</h3>
 
 - 🔭 I’m currently working on [Virtual Discussion Platform](https://github.com/SriSarveshA1/JU_DISCUSSION/tree/master)
 
-- 💬 Ask me about **react js,node js,express js**
+- 💬 Ask me about **node js,express js**
 
 - 📫 How to reach me **r.srisarvesh@gmail.com**
 
