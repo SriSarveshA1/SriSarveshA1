@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SriSarvesh R</h1>
-<h3 align="center">A passionate Backend Developer Using Javascript tech Stack.</h3>
+<h3 align="center">A passionate Backend Developer.</h3>
 
 - 🔭 I’m currently working on Air-India clone Link:https://github.com/SriSarveshA1/Air_India_clone
 
