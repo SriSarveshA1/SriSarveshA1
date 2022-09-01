@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **r.srisarvesh@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3tUdDVe](https://bit.ly/3tUdDVe)
+- 📄 Know about my experiences [https://bit.ly/3RiNgCU](Click here)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
