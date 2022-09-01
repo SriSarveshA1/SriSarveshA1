@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SriSarvesh R</h1>
 <h3 align="center">A passionate Backend Developer.</h3>
 
-- 🔭 I’m currently working on Flight Booking Application 
+- 🔭 I’m currently working on Flight Booking Application and Propery sale application 
 
 - 💬 Ask me about **node js,express js**
 
